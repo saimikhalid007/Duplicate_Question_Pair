@@ -15,6 +15,14 @@ We approach this as a binary classification problem, where:
 * 1 → Duplicate 
 * 0 → Non-duplicate
 
+<p align="center">
+  <img src="EDA_Images/Duplicate.png" alt="Duplicate" width="700"/>
+</p>
+
+<p align="center">
+  <img src="EDA_Images/Non Duplicate.png" alt="Not Duplicate" width="700"/>
+</p>
+
 ## Dataset Overview
 
 * **id:** the id of a training set question pair
